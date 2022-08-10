@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3E058E96-63B4-4AFF-8252-B7734D8CD6BD}") = "RevitAddin.RibbonMoveTest", "RevitAddin.RibbonMoveTest\RevitAddin.RibbonMoveTest.csproj", "{C7BF093D-C6FB-4175-8BC2-6DFEE9F126CD}"
+EndProject
+Project("{3E058E96-63B4-4AFF-8252-B7734D8CD6BD}") = "Build", "Build\Build.csproj", "{82E637A1-66A4-4F20-A0AC-2F51D9C560B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{7743FE34-6406-4799-919B-3C74D15C9EAE}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BF093D-C6FB-4175-8BC2-6DFEE9F126CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BF093D-C6FB-4175-8BC2-6DFEE9F126CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BF093D-C6FB-4175-8BC2-6DFEE9F126CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BF093D-C6FB-4175-8BC2-6DFEE9F126CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E637A1-66A4-4F20-A0AC-2F51D9C560B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E637A1-66A4-4F20-A0AC-2F51D9C560B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

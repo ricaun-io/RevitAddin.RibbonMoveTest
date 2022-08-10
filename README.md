@@ -6,7 +6,7 @@ Example to move RibbonItem between RibbonPanels.
 
 ***This is only visual, Revit still thinks the button is registered in the original RibbonPanel, on the Keyboard Shortcut the path of the RibbonItem is shown as the original RibbonPanel.***
 
-***I don't have the knowloge if has other consequences than that.***
+***I don't have the knowledge if has other consequences than that.***
 
 [![Revit 2017](https://img.shields.io/badge/Revit-2017+-blue.svg)](../..)
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-2022-blue)](../..)
